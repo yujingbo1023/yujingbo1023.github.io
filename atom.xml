@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yujingbo1023.github.io</id>
+    <title>玩玩Python吧</title>
+    <updated>2023-07-18T05:40:30.128Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yujingbo1023.github.io"/>
+    <link rel="self" href="https://yujingbo1023.github.io/atom.xml"/>
+    <subtitle>小破站：</subtitle>
+    <logo>https://yujingbo1023.github.io/images/avatar.png</logo>
+    <icon>https://yujingbo1023.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 玩玩Python吧</rights>
+</feed>
